@@ -1,0 +1,1554 @@
+         /* Tablet */
+
+
+@media (max-width: 1199px) {
+	[class*="__container"] {
+		/*max-width: 1000px;*/
+	}
+
+/* ! HEADER */
+	
+	.logo-menu-items__link-logo {
+		font-size: 32px;
+	}
+	
+	.logo-menu-items__link-logo::before {
+		width: 30.26px;
+		height: 28px;
+		background: url('../img/block-1-fashion/header/logo/logo-icon.svg') 0 0 / 30.26px no-repeat;
+		top: 1px;
+	}
+	
+   .logo-menu-items__button-item {
+		flex: 0 0 12.15%;
+	}
+
+	.logo-menu-items__link-signup {
+		padding: 10px 22px;
+	}
+
+	/* ! MAIN */
+/* ! Lets - block */
+
+   .lets__content {
+   	width: 85.47%;
+   	padding-top: 60px;
+   }
+   
+   .lets__titles-item {
+   	width: 380px;
+   }
+   
+   .lets__titles-item h1 {
+   	font-size: 60px;
+   }
+   
+   .lets__titles-item p {
+   	font-size: 21.5px;
+   }
+   
+   .lets__sibtitle-white {
+   	width: 265px;
+   }
+   
+   .lets__sibtitle-yellow {
+   	width: 300px;
+   }
+   
+   .lets__spot-item::before {
+   	width: 180px;
+   	background: url('../img/block-1-fashion/main/block-1/yellow-spot.svg') 0 0 / 180px no-repeat;
+   }
+   
+   .lets__link-shop {
+   	font-size: 22px;
+   	padding: 12px 28px;
+   }
+
+/* ! Brands-block */
+   
+/* ! Arrivel - block */
+   
+   .arrivels__title-item {
+   	width: 35.91%;
+   	background: url('../img/block-1-fashion/main/block-1/yellow-spot.svg') 190px 22px / 146px no-repeat;
+   }
+
+	.arrivels__title-item h2 {
+		font-size: 38px;
+	}
+
+/* ! Payday - block */
+   
+   .payday__image-item {
+   	flex: 0 0 480px;
+   }
+   
+   .payday__title-item {
+   	width: 225px;
+   }
+   
+   .payday__title-item h2 {
+   	font-size: 40px;
+   }
+   
+   .payday__subtitle {
+   	width: 200px;
+   }
+   
+   .payday__text {
+   	width: 395px;
+   	font-size: 22px;
+   }
+   
+   .payday__text-date,
+   .payday__text-terms {
+   	font-size: 22px;
+   }
+   
+   .payday__link-shop {
+      font-size: 22px;
+   }
+
+/* ! Young's - block */
+   
+   .youngs__title-item h2 {
+   	width: 47.75%;
+   	background: url('../img/block-1-fashion/main/block-1/yellow-spot.svg') 310px 22px / 146px no-repeat;
+   	font-size: 38px;
+   }
+   
+   .youngs__title-item:not(:last-child) {
+   	margin-bottom: 80px;
+   }
+
+/* ! App - block */
+
+   .app {
+   	padding: 50px auto;
+   }
+   .app__contents {
+   	width: 90.17%;
+   }
+   
+   .app__titles-item {
+   	width: 420px;
+   }
+   
+   .app__titles-item h2 {
+   	font-size: 38px;
+   }
+   
+   .item-app__link-picture {
+   	flex: 0 0 200px;
+   }
+   
+   .app__image-item {
+   	flex: 0 0 451px;
+   }
+
+/* ! Join - block */
+   
+   .join__titles-item {
+   	width: 68.64%;
+   }
+   
+   .join__titles-item h2 {
+   	font-size: 38px;
+   }
+   
+   .join__form {
+   	width: 665px;
+   }
+   
+   .form__btn-send {
+   	margin-left: 260px;
+   }
+
+/* ! FOOTER */
+
+   .footer-copyright {
+   	flex: 0 0 29.05%;
+   }
+
+   .footer-copyright__logo-item {
+   	width: 200px;
+   }
+
+   .footer-copyright__link-logo {
+   	font-size: 32px;
+   }
+   
+   .footer-copyright__link-logo::before {
+   	width: 30.26px;
+   	height: 28px;
+   	background: url('../img/block-8-fashion-footer/main/block-1/logo-f.svg') 0 0 / 30.26px no-repeat;
+   	top: 8px;
+   }
+
+   .footer-copyright__text-item p {
+   	font-size: 22px;
+   }
+
+   .footer-copyright__link-facebook::before {
+   	width: 50px;
+   	height: 50px;
+   	background: url('../img/block-8-fashion-footer/footer/block-1/yellow-black-facebook.svg') 0 0 / 50px no-repeat;
+   }
+
+   .footer-copyright__link-facebook:hover::before {
+   	background: url('../img/block-8-fashion-footer/footer/block-1/white-yellow-facebook.svg') 0 0 / 50px no-repeat;
+   }
+
+   .footer-copyright__link-facebook:active::before {
+   	background: url('../img/block-8-fashion-footer/footer/block-1/grey-white-facebook.svg') 0 0 / 50px no-repeat;
+   }
+   .footer-copyright__link-instagram::before {
+   	width: 50px;
+   	height: 50px;
+   	background: url('../img/block-8-fashion-footer/footer/block-1/yellow-black-instagram.svg') 0 0 / 50px no-repeat;
+   }
+
+   .footer-copyright__link-instagram:hover::before {
+   	background: url('../img/block-8-fashion-footer/footer/block-1/white-yellow-instagram.svg') 0 0 / 50px no-repeat; 
+   }
+
+   .footer-copyright__link-instagram:active::before {
+   	background: url('../img/block-8-fashion-footer/footer/block-1/grey-white-instagram.svg') 0 0 / 50px no-repeat; 
+   }
+
+   .footer-copyright__link-twiter::before {
+   	width: 50px;
+   	height: 50px;
+   	background: url('../img/block-8-fashion-footer/footer/block-1/yellow-black-twitter.svg') 0 0 / 50px no-repeat; 
+   }
+
+   .footer-copyright__link-twiter:hover::before {
+   	background: url('../img/block-8-fashion-footer/footer/block-1/white-yellow-twitter.svg') 0 0 / 50px no-repeat;
+   }
+
+   .footer-copyright__link-twiter:active::before {
+   	background: url('../img/block-8-fashion-footer/footer/block-1/grey-white-twitter.svg') 0 0 / 50px no-repeat;
+   }
+
+   .footer-copyright__link-linked::before {
+   	width: 50px;
+   	height: 50px;
+   	background: url('../img/block-8-fashion-footer/footer/block-1/yellow-black-linked.svg') 0 0 / 50px no-repeat;
+   }
+
+   .footer-copyright__link-linked:hover::before {
+   	background: url('../img/block-8-fashion-footer/footer/block-1/white-yellow-linked.svg') 0 0 / 50px no-repeat; 
+   }
+
+   .footer-copyright__link-linked:active::before {
+   	background: url('../img/block-8-fashion-footer/footer/block-1/grey-white-linked.svg') 0 0 / 50px no-repeat; 
+   }
+
+   .footer-widget:not(:first-child) {
+   	margin-left: 45px;
+   }
+
+   .footer-widget__title-item h3 {
+   	font-size: 22px;
+   }
+
+   .footer-widget__link {
+   	font-size: 22px;
+   }
+               
+}
+
+@media (max-width: 999px) {
+	[class*="__container"] {
+		/*max-width: 900px;*/
+	}
+
+/* ! HEADER */
+	
+	.logo-menu-items__link-logo {
+		font-size: 30px;
+	}
+	
+	.logo-menu-items__link-logo::before {
+		width: 29.26px;
+		height: 27px;
+		background: url('../img/block-1-fashion/header/logo/logo-icon.svg') 0 0 / 29.26px no-repeat;
+		top: 2px;
+	}
+	
+   .logo-menu-items__button-item {
+		flex: 0 0 15.55%;
+	}
+
+		/* ! MAIN */
+/* ! Lets - block */
+
+   .lets__content {
+		width: 93.47%;
+		padding-top: 50px;
+   }
+   
+   .lets__titles-item {
+   	width: 370px;
+   }
+   
+   .lets__titles-item h1 {
+   	font-size: 50px;
+   }
+   
+   .lets__titles-item p {
+   	font-size: 20.5px;
+   }
+   
+   .lets__sibtitle-white {
+   	width: 225px;
+   }
+   
+   .lets__sibtitle-yellow {
+   	width: 250px;
+   }
+   
+   .lets__spot-item::before {
+   	width: 170px;
+   	background: url('../img/block-1-fashion/main/block-1/yellow-spot.svg') 0 0 / 170px no-repeat;
+   }
+   
+   .lets__link-shop {
+   	font-size: 20px;
+   }
+
+	.lets__image-item {
+		flex: 0 0 440px;
+	}
+
+/* ! Brands-block */
+
+/* ! Arrivel - block */
+   
+   .arrivels__title-item {
+   	width: 37.91%;
+   	background: url('../img/block-1-fashion/main/block-1/yellow-spot.svg') 180px 21px / 136px no-repeat;
+   }
+
+	.arrivels__title-item h2 {
+		font-size: 36px;
+	}
+
+	.item-card__link-title,
+	.item-cards__link-title {
+		font-size: 22px;
+   }
+
+/* ! Payday - block */
+   
+   .payday__image-item {
+   	flex: 0 0 480px;
+   }
+   
+   .payday__title-item {
+   	width: 210px;
+   }
+   
+   .payday__title-item h2 {
+   	font-size: 38px;
+   }
+   
+   .payday__subtitle {
+   	width: 190px;
+   }
+   
+   .payday__text {
+   	width: 360px;
+   	font-size: 20px;
+   }
+   
+   .payday__text-date,
+   .payday__text-terms {
+   	font-size: 20px;
+   }
+   
+   .payday__link-shop {
+      font-size: 20px;
+   }
+
+/* ! Young's - block */
+   
+   .youngs__title-item h2 {
+   	width: 50.75%;
+   	background: url('../img/block-1-fashion/main/block-1/yellow-spot.svg') 300px 21px / 136px no-repeat;
+   	font-size: 36px;
+   }
+
+/* ! App - block */
+   
+   .app__titles-item {
+   	width: 400px;
+   }
+   
+   .app__titles-item h2 {
+   	font-size: 36px;
+   }
+   
+   .item-app__link-picture {
+   	flex: 0 0 190px;
+   }
+   
+   .app__image-item {
+   	flex: 0 0 380px;
+   }
+
+/* ! Join - block */
+   
+   .join__titles-item {
+   	width: 71.64%;
+   }
+   
+   .join__titles-item h2 {
+   	font-size: 36px;
+   }
+
+	.join__titles-item p {
+		font-size: 19px;
+  }
+   
+   .join__form {
+   	width: 623px;
+   }
+   
+   .form__btn-send {
+   	margin-left: 219px;
+   }
+
+/* ! FOOTER */
+
+   .footer-copyright {
+   	flex: 0 0 29.05%;
+   }
+
+   .footer-copyright__logo-item {
+   	width: 190px;
+   }
+
+   .footer-copyright__link-logo {
+   	font-size: 30px;
+   }
+   
+   .footer-copyright__link-logo::before {
+   	width: 29.26px;
+   	height: 27px;
+   	background: url('../img/block-8-fashion-footer/main/block-1/logo-f.svg') 0 0 / 29.26px no-repeat;
+   }
+
+   .footer-copyright__text-item p {
+   	font-size: 20px;
+   }
+
+	.footer-copyright__list {
+		margin: 0 -10px;
+	}
+	
+	.footer-copyright__item {
+		padding: 0 10px;
+	}
+
+   .footer-copyright__link-facebook::before {
+   	width: 45px;
+   	height: 45px;
+   	background: url('../img/block-8-fashion-footer/footer/block-1/yellow-black-facebook.svg') 0 0 / 45px no-repeat;
+   }
+
+   .footer-copyright__link-facebook:hover::before {
+   	background: url('../img/block-8-fashion-footer/footer/block-1/white-yellow-facebook.svg') 0 0 / 45px no-repeat;
+   }
+
+   .footer-copyright__link-facebook:active::before {
+   	background: url('../img/block-8-fashion-footer/footer/block-1/grey-white-facebook.svg') 0 0 / 45px no-repeat;
+   }
+
+   .footer-copyright__link-instagram::before {
+   	width: 45px;
+   	height: 45px;
+   	background: url('../img/block-8-fashion-footer/footer/block-1/yellow-black-instagram.svg') 0 0 / 45px no-repeat;
+   }
+
+   .footer-copyright__link-instagram:hover::before {
+   	background: url('../img/block-8-fashion-footer/footer/block-1/white-yellow-instagram.svg') 0 0 / 45px no-repeat; 
+   }
+
+   .footer-copyright__link-instagram:active::before {
+   	background: url('../img/block-8-fashion-footer/footer/block-1/grey-white-instagram.svg') 0 0 / 45px no-repeat; 
+   }
+
+   .footer-copyright__link-twiter::before {
+   	width: 45px;
+   	height: 45px;
+   	background: url('../img/block-8-fashion-footer/footer/block-1/yellow-black-twitter.svg') 0 0 / 45px no-repeat; 
+   }
+
+   .footer-copyright__link-twiter:hover::before {
+   	background: url('../img/block-8-fashion-footer/footer/block-1/white-yellow-twitter.svg') 0 0 / 45px no-repeat;
+   }
+
+   .footer-copyright__link-twiter:active::before {
+   	background: url('../img/block-8-fashion-footer/footer/block-1/grey-white-twitter.svg') 0 0 / 45px no-repeat;
+   }
+
+   .footer-copyright__link-linked::before {
+   	width: 45px;
+   	height: 45px;
+   	background: url('../img/block-8-fashion-footer/footer/block-1/yellow-black-linked.svg') 0 0 / 45px no-repeat;
+   }
+
+   .footer-copyright__link-linked:hover::before {
+   	background: url('../img/block-8-fashion-footer/footer/block-1/white-yellow-linked.svg') 0 0 / 45px no-repeat; 
+   }
+
+   .footer-copyright__link-linked:active::before {
+   	background: url('../img/block-8-fashion-footer/footer/block-1/grey-white-linked.svg') 0 0 / 45px no-repeat; 
+   }
+
+   .footer-widget__title-item h3 {
+   	font-size: 20px;
+   }
+
+   .footer-widget__link {
+   	font-size: 20px;
+   }
+               
+}
+
+@media (max-width: 899px) {
+	[class*="__container"] {
+		/*max-width: 750px;*/
+	}
+
+/* ! HEADER */
+	
+	.logo-menu-items__link-logo {
+		font-size: 28px;
+	}
+	
+	.logo-menu-items__link-logo::before {
+		width: 28.26px;
+		height: 26px;
+		background: url('../img/block-1-fashion/header/logo/logo-icon.svg') 0 0 / 28.26px no-repeat;
+		top: 1px;
+	}
+
+	.logo-menu-items__list {
+		column-gap: 15px;
+	}
+	
+	.logo-menu-items__link {
+		font-size: 16px;
+	}
+	
+   .logo-menu-items__button-item {
+		flex: 0 0 17.20%;
+	}
+
+	.logo-menu-items__link-signup {
+		font-size: 16px;
+	}
+
+	/* ! MAIN */
+/* ! Lets - block */
+
+
+   .lets {
+   	padding: 30px 0;
+   }
+   
+	.lets__content {
+		width: 94.47%;
+		padding-top: 30px;
+  }
+   
+   .lets__titles-item {
+   	width: 320px;
+   }
+   
+   .lets__titles-item h1 {
+   	font-size: 45px;
+   }
+   
+   .lets__titles-item p {
+   	font-size: 18.5px;
+   }
+   
+   .lets__sibtitle-white {
+   	width: 205px;
+   }
+   
+   .lets__sibtitle-yellow {
+   	width: 230px;
+   }
+   
+   .lets__spot-item::before {
+   	width: 160px;
+   	background: url('../img/block-1-fashion/main/block-1/yellow-spot.svg') 0 5px / 160px no-repeat;
+   }
+   
+   .lets__link-shop {
+   	font-size: 18px;
+   }
+   
+   .lets__image-item {
+   	flex: 0 0 355px;
+   }
+
+/* ! Brands-block */
+
+   
+/* ! Arrivel - block */
+   
+   .arrivels {
+   	padding: 40px 0;
+   }
+
+	.arrivels__title-item:not(:last-child) {
+		margin-bottom: 40px;
+  }
+
+   .arrivels__title-item {
+   	width: 38.91%;
+   	background: url('../img/block-1-fashion/main/block-1/yellow-spot.svg') 160px 18px / 110px no-repeat;
+   }
+
+	.arrivels__title-item h2 {
+		font-size: 30px;
+	}
+
+	.item-card__link-title,
+	.item-cards__link-title {
+		font-size: 20px;
+   }
+
+	.item-card__text-item p,
+	.item-cards__text-item p {
+		font-size: 17px;
+   }
+
+	.item-cards__link-epxlore {
+		font-size: 18px;
+   }
+
+	.item-cards__link-epxlore::after {
+		width: 30px;
+		background: url('../img/block-3-arrival/main/block-1/grey-arrow.svg') 0 0 / 30px no-repeat;
+  }
+
+/* ! Payday - block */
+   
+   .payday__image-item {
+   	flex: 0 0 370px;
+   }
+   
+   .payday__title-item {
+   	width: 170px;
+   }
+   
+   .payday__title-item h2 {
+   	font-size: 32px;
+   }
+   
+   .payday__subtitle {
+   	width: 160px;
+   }
+   
+   .payday__text {
+   	width: 315px;
+   	font-size: 18px;
+   }
+   
+   .payday__text-date,
+   .payday__text-terms {
+   	font-size: 18px;
+   }
+   
+   .payday__link-shop {
+      font-size: 18px;
+		padding: 10px 25px;
+   }
+   
+
+/* ! Young's - block */
+
+   .youngs {
+   	padding: 40px 0;
+   }
+
+	.youngs__title-item:not(:last-child) {
+		margin-bottom: 40px;
+   }
+   
+   .youngs__title-item h2 {
+   	width: 51.75%;
+   	background: url('../img/block-1-fashion/main/block-1/yellow-spot.svg') 260px 18px / 110px no-repeat;
+   	font-size: 30px;
+   }
+
+/* ! App - block */
+
+   .app {
+   	padding: 30px 0;
+   }
+   
+   .app__titles-item {
+   	width: 305px;
+   }
+   
+   .app__titles-item h2 {
+   	font-size: 30px;
+   }
+
+	.app__titles-item p {
+		font-size: 18px;
+  }
+   
+   .item-app__link-picture {
+   	flex: 0 0 147px;
+   }
+   
+   .app__image-item {
+   	flex: 0 0 339px;
+   }
+
+/* ! Join - block */
+   
+   .join__titles-item {
+   	width: 81.64%;
+   }
+   
+   .join__titles-item h2 {
+   	font-size: 30px;
+   }
+
+	.join__titles-item p {
+		font-size: 18px;
+  }
+   
+   .join__form {
+   	width: 585px;
+   }
+
+	.form__email-input {
+		font-size: 18px;
+	}
+
+   .form__btn-send {
+   	margin-left: 216px;
+		font-size: 18px;
+		padding: 8px 25px;
+   }
+
+/* ! FOOTER */
+
+   .footer-copyright {
+   	flex: 0 0 31.05%;
+   }
+
+   .footer-copyright__logo-item {
+   	width: 177px;
+   }
+
+   .footer-copyright__link-logo {
+   	font-size: 28px;
+   }
+   
+   .footer-copyright__link-logo::before {
+   	width: 28.26px;
+   	height: 26px;
+   	background: url('../img/block-8-fashion-footer/main/block-1/logo-f.svg') 0 0 / 28.26px no-repeat;
+		top: 7px;
+   }
+
+   .footer-copyright__text-item p {
+   	font-size: 18px;
+   }
+
+	.footer-copyright__list {
+		margin: 0 -10px;
+	}
+	
+	.footer-copyright__item {
+		padding: 0 10px;
+	}
+
+   .footer-copyright__link-facebook::before {
+   	width: 40px;
+   	height: 40px;
+   	background: url('../img/block-8-fashion-footer/footer/block-1/yellow-black-facebook.svg') 0 0 / 40px no-repeat;
+   }
+
+   .footer-copyright__link-facebook:hover::before {
+   	background: url('../img/block-8-fashion-footer/footer/block-1/white-yellow-facebook.svg') 0 0 / 40px no-repeat;
+   }
+
+   .footer-copyright__link-facebook:active::before {
+   	background: url('../img/block-8-fashion-footer/footer/block-1/grey-white-facebook.svg') 0 0 / 40px no-repeat;
+   }
+
+   .footer-copyright__link-instagram::before {
+   	width: 40px;
+   	height: 40px;
+   	background: url('../img/block-8-fashion-footer/footer/block-1/yellow-black-instagram.svg') 0 0 / 40px no-repeat;
+   }
+
+   .footer-copyright__link-instagram:hover::before {
+   	background: url('../img/block-8-fashion-footer/footer/block-1/white-yellow-instagram.svg') 0 0 / 40px no-repeat; 
+   }
+
+   .footer-copyright__link-instagram:active::before {
+   	background: url('../img/block-8-fashion-footer/footer/block-1/grey-white-instagram.svg') 0 0 / 40px no-repeat; 
+   }
+
+   .footer-copyright__link-twiter::before {
+   	width: 40px;
+   	height: 40px;
+   	background: url('../img/block-8-fashion-footer/footer/block-1/yellow-black-twitter.svg') 0 0 / 40px no-repeat; 
+   }
+
+   .footer-copyright__link-twiter:hover::before {
+   	background: url('../img/block-8-fashion-footer/footer/block-1/white-yellow-twitter.svg') 0 0 / 40px no-repeat;
+   }
+
+   .footer-copyright__link-twiter:active::before {
+   	background: url('../img/block-8-fashion-footer/footer/block-1/grey-white-twitter.svg') 0 0 / 40px no-repeat;
+   }
+
+   .footer-copyright__link-linked::before {
+   	width: 40px;
+   	height: 40px;
+   	background: url('../img/block-8-fashion-footer/footer/block-1/yellow-black-linked.svg') 0 0 / 40px no-repeat;
+   }
+
+   .footer-copyright__link-linked:hover::before {
+   	background: url('../img/block-8-fashion-footer/footer/block-1/white-yellow-linked.svg') 0 0 / 40px no-repeat; 
+   }
+
+   .footer-copyright__link-linked:active::before {
+   	background: url('../img/block-8-fashion-footer/footer/block-1/grey-white-linked.svg') 0 0 / 40px no-repeat; 
+   }
+
+	.footer-widget:not(:first-child) {
+		margin-left: 40px;
+   }
+
+   .footer-widget__title-item h3 {
+   	font-size: 18px;
+   }
+
+   .footer-widget__link {
+   	font-size: 18px;
+   }
+               
+}
+
+@media (max-width: 749px) {
+	[class*="__container"] {
+		/*max-width: 600px;*/
+	}
+
+	header {
+		position: absolute;
+		width: 100%;
+		left: 0;
+		top: 0;
+		z-index: 10;
+		background-color: #919191;
+	}
+
+	.header-items {
+		padding: 20px 0;
+   }
+
+	.logo-menu-items__link-logo {
+		font-size: 26px;
+		color: #ffffff;
+		text-shadow: 2px 2px 2px #31405B;
+	}
+	
+	.logo-menu-items__link-logo::before {
+		width: 27.26px;
+		height: 26px;
+		background: url('../img/block-8-fashion-footer/main/block-1/logo-g.svg') 0 0 / 27.26px no-repeat;
+		top: 0;
+	}
+
+	.logo-menu-items__menu {
+		display: none;
+	}
+
+	.logo-menu-items__burger-menu {
+		margin-left: auto;
+		padding-left: 20px;
+	}
+	.logo-menu-items__burger-menu::before {
+		content: "";
+		width: 22px;
+		height: 22px;
+		display: inline-block;
+		background: url('../img/block-1-fashion/header/menu/burger.svg') 0 3px / 22px no-repeat;
+		min-height: 22px;
+			
+	}
+
+	.logo-menu-items__button-item {
+		flex: 0 0 20.50%;
+	}
+
+	.logo-menu-items__link-signup {
+		font-size: 16px;
+		padding: 8px 18px
+	}
+
+/* ! MAIN */
+
+	main {
+		padding-top: 70px;
+	}
+/* ! Lets - block */
+
+
+   .lets {
+   	padding: 30px 0;
+		position: relative;
+   }
+   .lets__contents {
+   	/*width: 570px;*/
+   }
+   
+   .lets__titles-item {
+   	width: 230px;
+   }
+
+	.lets__titles-item:not(:last-child) {
+		margin-bottom: 20px;
+  }
+   
+   .lets__titles-item h1 {
+   	font-size: 42px;
+   }
+
+	.lets__titles-item h1:not(:last-child) {
+		margin-bottom: 20px;
+  }
+   
+   .lets__titles-item p {
+   	font-size: 16.5px;
+   }
+   
+   .lets__sibtitle-white {
+   	width: 180px;
+   }
+   
+   .lets__sibtitle-yellow {
+   	width: 205px;
+   }
+   
+   .lets__spot-item::before {
+   	width: 128px;
+   	background: url('../img/block-1-fashion/main/block-1/yellow-spot.svg') 0 7px / 110px no-repeat;
+   }
+   
+   .lets__link-shop {
+		flex: 0 0 43.60%;
+   	font-size: 16px;
+		padding: 12px 16px;
+   }
+   
+   .lets__image-item {
+   	flex: 0 0 298px;
+   }
+
+/* ! Brands-block */
+
+  
+   .brands__logo-item {
+   	flex: 0 0 25.10%;
+   }
+
+/* ! Arrivel - block */
+
+   .arrivels__title-item {
+   	width: 42.91%;
+   	background: url('../img/block-1-fashion/main/block-1/yellow-spot.svg') 140px 15px / 100px no-repeat;
+   }
+
+	.arrivels__title-item h2 {
+		font-size: 26px;
+	}
+
+	.arrivels__cards-items {
+		margin: 0 -10px;
+   }
+	.arrivels__cards-item {
+		flex: 0 0 50%;
+		padding: 0 10px;
+	}
+	.item-card__link-title,
+	.item-cards__link-title {
+		font-size: 20px;
+   }
+
+	.item-card__text-item p,
+	.item-cards__text-item p {
+		font-size: 17px;
+   }
+
+	.item-cards__link-epxlore {
+		font-size: 17px;
+   }
+
+	.item-cards__link-epxlore::after {
+		width: 30px;
+		background: url('../img/block-3-arrival/main/block-1/grey-arrow.svg') 0 0 / 30px no-repeat;
+  }
+
+/* ! Payday - block */
+
+   .payday {
+		padding-top: 10px;
+	}
+   
+   .payday__image-item {
+   	flex: 0 0 307px;
+   }
+   
+   .payday__title-item {
+   	width: 140px;
+   }
+
+	.payday__title-item:not(:last-child) {
+		margin-bottom: 25px;
+   }
+   
+   .payday__title-item h2 {
+   	font-size: 26px;
+   }
+   
+   .payday__subtitle {
+   	width: 130px;
+   }
+
+	.payday__texts-item:not(:last-child) {
+		margin-bottom: 25px;
+   }
+   
+   .payday__text {
+   	width: 244px;
+   	font-size: 17px;
+   }
+   
+   .payday__text-date,
+   .payday__text-terms {
+   	font-size: 17px;
+   }
+
+	.payday__text:not(:last-child) {
+		margin-bottom: 25px;
+   }
+   
+   .payday__link-shop {
+   	font-size: 17px;
+   }
+
+/* ! Young's - block */
+   
+   .youngs__title-item h2 {
+   	width: 59.75%;
+   	background: url('../img/block-1-fashion/main/block-1/yellow-spot.svg') 230px 15px / 100px no-repeat;
+   	font-size: 26px;
+   }
+
+	.youngs__cards-items {
+		flex-direction: column;
+	}
+
+	/* ! App - block */
+
+   .app {
+   	padding: 30px 0;
+   }
+
+	.app__contents {
+		width: 64.17%;
+   }
+
+	.app__info-image-items {
+      flex-direction: column;
+		align-items: center;
+		row-gap: 20px;
+   }
+   
+   .app__titles-item {
+   	width: 366px;
+		text-align: center;
+   }
+
+	.app__titles-item:not(:last-child) {
+		margin-bottom: 20px;
+   }
+   
+   .app__titles-item h2 {
+   	font-size: 26px;
+   }
+
+	.app__titles-item h2:not(:last-child) {
+		margin-bottom: 20px;
+   }
+
+	.app__titles-item p {
+		font-size: 16px;
+   }
+   
+   .item-app__link-picture {
+   	flex: 0 0 177px;
+   }
+   
+   .app__image-item {
+   	flex: 0 0 480px;
+		margin-left: 0;
+      padding-left: 0;
+   }
+
+	/* ! Join - block */
+   
+   .join__titles-item h2 {
+   	font-size: 26px;
+   }
+
+	.join__titles-item p {
+		font-size: 16px;
+  }
+   
+   .join__form {
+   	width: 466px;
+   }
+
+	.form__email-input {
+		font-size: 16px;
+	}
+
+   .form__btn-send {
+   	margin-left: 130px;
+		font-size: 16px;
+   }
+
+	/* ! FOOTER */
+
+	.footer-items__footer-info-items {
+		flex-direction: column;
+		row-gap: 30px;
+	}
+
+   .footer-copyright__logo-item {
+   	width: 167px;
+   }
+
+   .footer-copyright__link-logo {
+   	font-size: 26px;
+   }
+   
+   .footer-copyright__link-logo::before {
+   	width: 26.26px;
+   	height: 25px;
+   	background: url('../img/block-8-fashion-footer/main/block-1/logo-f.svg') 0 0 / 26.26px no-repeat;
+		top: 5px;
+   }
+
+   .footer-copyright__text-item p {
+   	font-size: 16px;
+   }
+
+	.footer-widget-items {
+		margin-left: 0;
+		padding-left: 0;
+	}
+
+   .footer-widget__title-item h3 {
+   	font-size: 16px;
+   }
+
+   .footer-widget__link {
+   	font-size: 16px;
+   }
+
+}
+
+@media (max-width: 599px) {
+	[class*="__container"] {
+		/*max-width: 450px;*/
+	}
+
+/* ! HEADER */
+
+	.logo-menu-items__button-item {
+		flex: 0 0 27.60%;
+	}
+
+	/* ! MAIN */
+
+/* ! Lets - block */
+
+   .lets__content {
+   	width: 75.47%;
+   	padding: 30px 0 0;
+   }
+
+	.lets__content-image-items {
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		row-gap: 30px;
+	}
+   
+   .lets__titles-item {
+   	width: 317px;
+   }
+
+	.lets__titles-item h1{
+		margin-left: 60px;
+	}
+
+	.lets__sibtitle-white {
+		width: 170px;
+   }
+
+	.lets__sibtitle-yellow {
+		width: 210px;
+   }
+   
+   .lets__titles-item p {
+   	font-size: 17.5px;
+		text-align: center;
+   }
+   
+   .lets__spot-item::before {
+   	width: 130px;
+   	background: url('../img/block-1-fashion/main/block-1/yellow-spot.svg') 0 7px / 130px no-repeat;
+   }
+   
+   .lets__link-shop {
+   	font-size: 17px;
+		padding: 12px 20px;
+		text-align: center;
+   }
+   
+   .lets__image-item {
+   	flex: 0 0 403px;
+		margin-left: 0;
+      padding-left: 0;
+   }
+
+/* ! Arrivel - block */
+
+   .arrivels__title-item {
+   	width: 57.91%;
+   	background: url('../img/block-1-fashion/main/block-1/yellow-spot.svg') 140px 14px / 100px no-repeat;
+   }
+
+	.item-cards__link-epxlore::after {
+		width: 28px;
+		background: url('../img/block-3-arrival/main/block-1/grey-arrow.svg') 0 0 / 28px no-repeat;
+   }
+
+/* ! Payday - block */
+
+   .payday {
+		padding-top: 50px;
+	}
+   
+   .payday__items {
+   	width: 85%;
+		margin: 0 auto;
+   }
+
+	.payday__image-info-items {
+		flex-direction: column-reverse;
+		row-gap: 30px;
+   }
+
+   .payday__image-item {
+   	flex: 0 0 307px;
+   }
+   
+	.payday__info-items {
+		margin-left: 0;
+		padding-left: 0;
+   }
+
+	.payday__text {
+		width: 293px;
+   }
+
+/* ! Young's - block */
+   
+   .youngs__title-item h2 {
+   	width: 78.75%;
+   	background: url('../img/block-1-fashion/main/block-1/yellow-spot.svg') 227px 14px / 100px no-repeat;
+   	font-size: 26px;
+   }
+
+/* ! App - block */
+
+	.app__contents {
+		width: 88%;
+   }
+
+/* ! Join - block */
+
+	.join__titles-item p {
+		font-size: 17px;
+  }
+   
+   .join__form {
+   	width: 342px;
+   }
+
+   .form__btn-send {
+   	margin-left: 14px;
+		font-size: 16px;
+		padding: 8px 20px;
+   }
+
+/* ! FOOTER */
+   
+   .footer-copyright__link-logo::before {
+   	width: 26.26px;
+   	height: 25px;
+   	background: url('../img/block-8-fashion-footer/main/block-1/logo-f.svg') 0 0 / 26.26px no-repeat;
+		top: 5px;
+   }
+
+	.footer-widget-items {
+		margin-left: 0;
+		padding-left: 0;
+   }
+
+	.footer-widget:not(:first-child) {
+		margin-left: 26px;
+   }
+
+   .footer-copyright__text-item p {
+   	font-size: 17px;
+   }
+
+   .footer-widget__title-item h3 {
+   	font-size: 17px;
+   }
+
+   .footer-widget__link {
+   	font-size: 17px;
+   }
+
+}
+
+
+
+@media (max-width: 449px) {
+	[class*="__container"] {
+		/*max-width: 320px;*/
+	}
+
+/* ! HEADER */
+
+   .logo-menu-items__link-logo {
+   	padding-left: 35px;
+   }
+
+   .logo-menu-items__burger-menu {
+   	padding-left: 10px;
+   }
+
+	.logo-menu-items__button-item {
+		flex: 0 0 30.60%;
+		padding-left: 0px;
+		margin-left: 10px;
+	}
+
+	.logo-menu-items__link-signup {
+		font-size: 14px;
+		padding: 10px 18px;
+		
+   }
+
+	/* ! MAIN */
+
+/* ! Lets - block */
+
+   .lets__contents {
+		border-radius: 0;
+   }
+
+   .lets__content {
+   	width: 100%;
+   }
+   
+   .lets__titles-item {
+   	width: 276px;
+   }
+
+	.lets__titles-item h1{
+		margin-left: 40px;
+	}
+   
+   .lets__titles-item p {
+   	font-size: 16.5px;
+   }
+   
+   .lets__spot-item::before {
+   	width: 120px;
+   	background: url('../img/block-1-fashion/main/block-1/yellow-spot.svg') 0 7px / 120px no-repeat;
+   }
+   
+   .lets__link-shop {
+		flex: 0 0 38.6%;
+   	font-size: 16px;
+		padding: 12px 18px;
+   }
+
+	.lets__image-item {
+		flex: 0 0 394px;
+	}
+
+/* ! Brands-block */
+
+   .brands__logo-item {
+   	flex: 0 0 36%;
+   }
+
+	/* ! Arrivel - block */
+
+   .arrivels__title-item {
+   	width: 78%;
+   	background: url('../img/block-1-fashion/main/block-1/yellow-spot.svg') 130px 13px / 95px no-repeat;
+   }
+
+	.arrivels__title-item h2 {
+		font-size: 24px;
+	}
+
+	.arrivels__cards-items {
+		margin: 0 -10px;
+		flex-direction: column;
+   }
+
+/* ! Payday - block */
+   
+   .payday__items {
+   	width: 100%;
+   }
+
+   .payday__image-item {
+   	flex: 0 0 327px;
+   }
+
+	.payday__text {
+		width: 264px;
+   }
+
+/* ! Young's - block */
+   
+   .youngs__title-item h2 {
+   	width: 100%;
+   	background: url('../img/block-1-fashion/main/block-1/yellow-spot.svg') 191px 11px / 95px no-repeat;
+   	font-size: 22px;
+   }
+
+	/* ! App - block */
+
+	.app__contents {
+		width: 100%;
+   }
+
+	.app__titles-item {
+		width: 296px;
+	}
+
+	.app__titles-item h2 {
+		font-size: 24px;
+   }
+
+	.app__image-item {
+		flex: 0 0 379px;
+		align-self: flex-start;
+   }
+
+	.app__apps-items {
+      align-items: center;
+		justify-content: center;
+   }
+
+	.item-app__link-picture {
+		flex: 0 0 200px;
+   }
+
+/* ! Join - block */
+
+   .join__titles-item {
+   	width: 100%;
+   }
+
+	.join__titles-item h2 {
+		font-size: 24px;
+   }
+
+	.join__titles-item p {
+		font-size: 16px;
+   }
+   
+   .join__form {
+   	width: 290px;
+   }
+
+	.form__email-input {
+		font-size: 14px;
+   }
+
+   .form__btn-send {
+   	margin-left: 0;
+		font-size: 13px;
+		padding: 8px 16px;
+   }
+
+	/* ! FOOTER */
+   
+   .footer-copyright__link-logo::before {
+   	width: 26.26px;
+   	height: 25px;
+   	background: url('../img/block-8-fashion-footer/main/block-1/logo-f.svg') 0 0 / 26.26px no-repeat;
+		top: 5px;
+   }
+
+	.footer-widget-items {
+		row-gap: 30px;
+		justify-content: space-between;
+   }
+
+	.footer-widget__title-item {
+		text-align: center;
+	}
+
+	.footer-widget__title-item:not(:last-child) {
+		margin-bottom: 25px;
+   }
+
+	.footer-widget:not(:first-child) {
+		margin-left: 0;
+   }
+
+   .footer-copyright__text-item p {
+   	font-size: 16px;
+   }
+
+   .footer-widget__title-item h3 {
+   	font-size: 17px;
+   }
+
+   .footer-widget__link {
+   	font-size: 16px;
+   }
+}
